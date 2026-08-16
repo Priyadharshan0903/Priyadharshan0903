@@ -65,21 +65,9 @@ its README.md appears on your GitHub profile. Edit it here, then click
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Priyadharshan0903&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Priyadharshan's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshan0903&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyadharshan0903&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshan0903&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharshan0903&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
-</p>
 
 ### 🐍 Watch the snake eat my contributions
 
