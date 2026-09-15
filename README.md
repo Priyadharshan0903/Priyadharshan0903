@@ -26,8 +26,30 @@ its README.md appears on your GitHub profile. Edit it here, then click
 - ⚙️ Infrastructure enthusiast — happiest deep in systems and platforms
 - 🌐 Into Distributed Systems, Event-Driven Architecture & Platform Engineering
 - 🏗️ I like turning messy problems into clean, scalable services
-- 📚 Manga reader • Anime fan • Perpetual builder
 - 🎯 On a mission to become a world-class Backend Engineer
+
+## 📌 Featured Projects
+
+### 🔀 [Git-Switcher](https://github.com/Priyadharshan0903/Git-Switcher) · `Go`
+`ghsw` switches between GitHub identities (work, personal, client) on one machine with a single command. It adds no auth code of its own. Instead it drives tools that already exist: `gh auth switch`, your global git identity, an SSH key symlink, `includeIf` folder pinning and SSH host aliases.
+
+### 🤖 [Claude-Switcher](https://github.com/Priyadharshan0903/Claude-Switcher) · `Go`
+`clw` is a small CLI for switching between multiple Claude Code accounts on one machine. It gives each account its own `CLAUDE_CONFIG_DIR`, so logins stay separate and switching is instant.
+
+### ⏪ [Rewind](https://github.com/Priyadharshan0903/Rewind) · `TypeScript` `Electron`
+A local-first API client for macOS where every run is saved on disk as plain JSON and nothing leaves your machine. It has Postman-style tabs, environments and collection variables, and diffs of any response against earlier runs. It also does OpenAPI and Postman import, copy-as-code (cURL, Node, Python) and post-response scripts.
+
+### 📓 [Foglio](https://github.com/Priyadharshan0903/Foglio) · `Swift` `SwiftUI`
+A native macOS workspace that puts notes, tasks and your calendar in one app. It has Markdown notes with wiki-links, a kanban-style task board with custom lanes, and calendar import (ICS) with meeting alerts. It also has weekly summaries, a roadmap view and a quick-note panel you open with a hotkey.
+
+### 📅 [Daybook](https://github.com/Priyadharshan0903/Daily-Tracker) · `Swift` `SwiftUI`
+A native macOS menu bar app that's a work log first and a planner second. Jot down a line when something ships, and by Friday you have an honest record for standups, 1:1s and reviews. It has no third-party dependencies and is about 2.7 MB.
+
+### 🦀 Open Source: [Zed Editor](https://github.com/zed-industries/zed) · `Rust`
+I contribute to Zed's Git integration:
+- ✅ Merged: optional message support for `git stash` ([#62439](https://github.com/zed-industries/zed/pull/62439))
+- ✅ Merged: *Stash Tracked / Stash Staged* actions and staging actions for each section of the Git panel ([#62254](https://github.com/zed-industries/zed/pull/62254))
+
 
 ## 🛠️ Tech Stack
 
