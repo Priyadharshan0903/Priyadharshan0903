@@ -17,7 +17,7 @@ I'm a software engineer in Chennai who's drawn to the systems behind the product
 
 Most of my side projects start with something I want to use myself, from inspecting coding-agent sessions to managing my clipboard and keeping a daily work log. I also contribute to open source and build learning resources as I go.
 
-- **Now:** Production Engineering on Workday's Developer Platform
+- **Now:** SDE at Workday
 - **Building:** a Redis clone in Go, the first of a few from-scratch distributed systems
 - **Teaching:** [Golang Academy](https://priyadharshan0903.github.io/golang-academy/), a free, open source Go curriculum
 - **Contributing:** Git workflow improvements in [Zed](https://github.com/zed-industries/zed)
